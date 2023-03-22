@@ -100,9 +100,9 @@ bash acme.sh --issue -d $domain --server letsencrypt --keylength ec-256 --fullch
 clear
 echo -e "${GB}[ INFO ]${NC} ${YB}Setup Nginx & Xray Conf${NC}"
 echo "UQ3w2q98BItd3DPgyctdoJw4cqQFmY59ppiDQdqMKbw=" > /usr/local/etc/xray/serverpsk
-wget -q -O /usr/local/etc/xray/config.json https://raw.githubusercontent.com/Jesanne87/combo/main/config.json
-wget -q -O /etc/nginx/nginx.conf https://raw.githubusercontent.com/Jesanne87/combo/main/nginx.conf
-wget -q -O /etc/nginx/conf.d/xray.conf https://raw.githubusercontent.com/Jesanne87/combo/main/xray.conf
+wget -q -O /usr/local/etc/xray/config.json https://raw.githubusercontent.com/annelyah23/annelyah23.github.io/main/config.json
+wget -q -O /etc/nginx/nginx.conf https://raw.githubusercontent.com/annelyah23/annelyah23.github.io/main/nginx.conf
+wget -q -O /etc/nginx/conf.d/xray.conf https://raw.githubusercontent.com/annelyah23/annelyah23.github.io/main/xray.conf
 systemctl restart nginx
 systemctl restart xray
 echo -e "${GB}[ INFO ]${NC} ${YB}Setup Done${NC}"
