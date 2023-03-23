@@ -23,6 +23,6 @@ wget https://raw.githubusercontent.com/annelyah23/VPS-access-root/main/root7.sh 
 ## INSTALLATION SCRIPT
 
   ```html
-wget https://raw.githubusercontent.com/Jesanne87/combo/main/xray.sh && chmod +x xray.sh && sed -i -e 's/\r$//' xray.sh && screen -S xray ./xray.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Jesanne87/combo/main/xray.sh && chmod +x xray.sh && sed -i -e 's/\r$//' xray.sh && screen -S xray ./xray.sh
 
   ```
