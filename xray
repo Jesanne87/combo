@@ -1,4 +1,4 @@
-#!/bin/bash
+
 GitUser="Jesanne87"
 rm -rf xray
 clear
