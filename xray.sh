@@ -16,11 +16,14 @@ echo ""
 read -p "Input Your License Key : " Input_License_Key
 
 # // Checking Input Blank
-if [[ $Input_License_Key ==  "" ]]; then
-    echo -e "${EROR} Please Input License Key !${NC}"
-    exit 1
+if [[ $Input_License_Key = $algoritmakeys ]]; then
+         echo -e "${OKEY} Successfull${NC}"
+         sleep 1
+    else
+        echo -e "${EROR} Please Input Correct License Key !${NC}"
+        exit 1
 fi
-
+     
 # // Checking License Validate
 Key="$Input_License_Key"
 
