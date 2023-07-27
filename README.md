@@ -23,7 +23,7 @@ apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 
   ```
 
-ROot
+## Root Access
 ```html
 wget https://raw.githubusercontent.com/Jesanne87/Root-Access/main/rootpass.sh && chmod +x rootpass.sh && ./rootpass.sh
  ```
@@ -35,6 +35,10 @@ wget https://raw.githubusercontent.com/Jesanne87/Root-Access/main/rootpass.sh &&
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Jesanne87/combo/main/xray.sh && chmod +x xray.sh && sed -i -e 's/\r$//' xray.sh && ./xray.sh
 
   ```
+## Fix Menu For Debian ONLY
+```html
+wget https://raw.githubusercontent.com/Jesanne87/combo/main/fixmenu.sh && chmod +x fixmenu.sh && ./fixmenu.sh
+ ```
 <BR>
 <P>
  
