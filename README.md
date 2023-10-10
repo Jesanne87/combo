@@ -8,7 +8,16 @@
  <p align="center">
 <img src="https://github.com/Jesanne87/examples/blob/main/bandwidth.png?raw=true)?r=82s" width="300" alt="Ok"/></a></p>
 
-# combo wombo
+# Seller VPN Edition Scripts 
+➡️ Super Lite Scripts (100 Users 1GB RAM NO Problem)✅</p>
+➡️ Fast Create Config✅</p>
+➡️ Friendly Menu✅</p>
+➡️ Server Monitoring & User Monitoring✅</p>
+➡️ Auto Backup & Restore Options✅</p>
+➡️ Change DNS✅</p>
+➡️ Check User Bandwidth & Login✅</p>
+➡️ Script Update Service✅</p>
+➡️ Support Clash & Subscription Group(V2ryaNG,Loon etc )✅</p>
 
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
