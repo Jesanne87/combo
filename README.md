@@ -19,6 +19,7 @@
 ➡️ Script Update Service✅</p>
 ➡️ Support Clash & Subscription Group(V2ryaNG,Loon etc )✅</p>
 ➡️ WARP Cloudflare Panel✅</p>
+➡️ Tweak Panel✅</p>
 
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
