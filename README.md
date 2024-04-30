@@ -8,7 +8,7 @@
  <p align="center">
 <img src="https://github.com/Jesanne87/examples/blob/main/bandwidth.png?raw=true)?r=82s" width="300" alt="Ok"/></a></p>
 
-# Seller VPN Edition Scripts 
+# VPN Seller Edition Scripts 
 ➡️ Super Lite Scripts (100 Users 1GB RAM NO Problem)✅</p>
 ➡️ Fast Create Config✅</p>
 ➡️ Friendly Menu✅</p>
