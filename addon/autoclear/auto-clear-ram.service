@@ -1,5 +1,5 @@
 [Unit]
-Description=Vless Auto Kill Service
+Description=Auto Clearing RAM
 Documentation=https://JsPhantom.com
 After=syslog.target network-online.target
 
