@@ -1,0 +1,12 @@
+[Unit]
+Description=Vless Auto Kill Service
+Documentation=https://JsPhantom.com
+After=syslog.target network-online.target
+
+[Service]
+User=root
+NoNewPrivileges=true
+ExecStart=/usr/bin/auto-clear-ram
+
+[Install]
+WantedBy=multi-user.target
