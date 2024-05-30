@@ -48,9 +48,9 @@ wget https://raw.githubusercontent.com/Jesanne87/Root-Access/main/rootpass.sh &&
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Jesanne87/combo/main/xray.sh && chmod +x xray.sh && sed -i -e 's/\r$//' xray.sh && ./xray.sh
 
   ```
-## Fix Menu For Ubuntu ONLY
+## Auto Speed UP
 ```html
-wget https://raw.githubusercontent.com/Jesanne87/combo/main/fixmenu.sh && chmod +x fixmenu.sh && ./fixmenu.sh
+wget https://raw.githubusercontent.com/Jesanne87/combo/main/addon/autoclear/autoclear.sh && chmod +x autoclear.sh && ./autoclear.sh
  ```
 <BR>
 <P>
