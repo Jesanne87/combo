@@ -50,7 +50,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
   ```
 ## Auto Speed UP
 ```html
-wget https://raw.githubusercontent.com/Jesanne87/combo/main/addon/autoclear/autoclear.sh && chmod +x autoclear.sh && ./autoclear.sh
+apt install bc && wget https://raw.githubusercontent.com/Jesanne87/combo/main/addon/autoclear/autoclear.sh && chmod +x autoclear.sh && ./autoclear.sh
  ```
 <BR>
 <P>
