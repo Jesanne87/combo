@@ -7,6 +7,7 @@ After=syslog.target network-online.target
 User=root
 NoNewPrivileges=true
 ExecStart=/usr/bin/auto-clear-ram
+Restart=on-failure
 
 [Install]
 WantedBy=multi-user.target
