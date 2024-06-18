@@ -7,6 +7,10 @@
 <img src="https://github.com/Jesanne87/examples/blob/main/lateesstt.png?raw=true)?r=82s" width="400" alt="Ok"/></a></p>
  <p align="center">
 <img src="https://github.com/Jesanne87/examples/blob/main/bandwidth.png?raw=true)?r=82s" width="300" alt="Ok"/></a></p>
+ <p align="center">
+<img src="https://github.com/Jesanne87/examples/blob/main/userlist.png?raw=true)?r=82s" width="300" alt="Ok"/></a></p>
+ <p align="center">
+<img src="https://github.com/Jesanne87/examples/blob/main/warpmenu.png?raw=true)?r=82s" width="300" alt="Ok"/></a></p>
 
 # VPN Seller Edition Scripts 
 ➡️ Super Lite Scripts (100 Users 1GB RAM NO Problem)✅</p>
@@ -21,6 +25,8 @@
 ➡️ WARP Cloudflare Panel✅</p>
 ➡️ Tweak Panel✅</p>
 ➡️ CustomPath/MultiPath✅</p>
+➡️ Auto Optimize System when CPU/RAM Overload✅</p>
+➡️ Multilogin Monitoring✅</p>
 
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
