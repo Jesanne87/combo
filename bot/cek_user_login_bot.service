@@ -1,0 +1,14 @@
+[Unit]
+Description=Telegram Bot Monitor and Check Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/cek_user_login_bot
+Restart=always
+User=root
+Environment=BOT_TOKEN=YOUR_BOT_TOKEN
+Environment=CHAT_ID=YOUR_CHAT_ID
+Environment=TERM=xterm-256color
+
+[Install]
+WantedBy=multi-user.target
