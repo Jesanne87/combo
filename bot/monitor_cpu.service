@@ -1,0 +1,10 @@
+[Unit]
+Description=Monitor CPU Usage Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/monitor_cpu_usage.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
