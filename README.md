@@ -27,6 +27,12 @@
 ➡️ CustomPath/MultiPath✅</p>
 ➡️ Auto Optimize System when CPU/RAM Overload✅</p>
 ➡️ Multilogin Monitoring✅</p>
+➡️ Real Time User Deletion✅</p>
+➡️ BOT Panel Ready✅</p>
+➡️ BOT MultiLogin Notification✅</p>
+➡️ BOT Check User Bandwidth✅</p>
+➡️ BOT Services Not Running Alert✅</p>
+➡️ BOT User Expired ID Deletion Notification✅</p>
 
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
