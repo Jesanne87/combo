@@ -25,7 +25,7 @@ echo -e "${BB}——————————————————————
 users=$(grep -oP '^#=\s*\K\w+' /usr/local/etc/xray/config.json | sort | uniq)
 
 for user in $users; do
-    ips=$(grep "email: $user" /var/log/xray/access.log | cut -d " " -f 4 | sed -E 's/from tcp://g; s/tcp://g; s/\[//g; s/\]//g; s/:0//; s/:[0-9]*//' | sort | uniq)
+    ips=$(grep "email: $user" /var/log/xray/access.log | cut -d " " -f 3 | sed -E 's/from tcp://g; s/tcp://g; s/\[//g; s/\]//g; s/:0//; s/:[0-9]*//' | sort | uniq)
     
     ip_count=$(echo "$ips" | wc -l)
     if [ "$ip_count" -gt 1 ]; then
