@@ -1,0 +1,11 @@
+[Unit]
+Description=Xray Bandwidth Logger
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/auto_logger
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
